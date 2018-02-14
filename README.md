@@ -1,2 +1,2 @@
 # DSistema
-Projeto de desenvolvimento de sistema gerencial para Consultório Odontológico.
+Algumas soluções  em Java.
